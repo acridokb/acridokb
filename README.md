@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @acridokb
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning GA-ELM
-- 💞️ I’m looking to collaborate on GA-ELM
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ..
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
