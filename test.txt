@@ -1,4 +1,4 @@
 Testing pertama kali belajar menggunakan github
 harapannya kedepan semua program yang saya kembangkan diletakkan di github
-dengan demikian orang lain juga bisa berkomentar.
+dengan demikian  lain juga bisa berkomentar.
 Ini menambahkan tulisan baru 
